@@ -1,0 +1,15 @@
+id = b075fd06-23ea-4da4-afa1-3e14400fac02
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"petstore.json","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
