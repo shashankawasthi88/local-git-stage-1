@@ -1,4 +1,4 @@
-id = b075fd06-23ea-4da4-afa1-3e14400fac02
+id = e34cf25e-d69d-4bc5-8808-16d740a3746a
 
 [relations]
 
@@ -10,8 +10,6 @@ files[] = {"id":"bc8541f2-f3dc-4212-95c8-c2c98105e4f3","path":"petstore_collecti
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"petstore.json","metaData":{}}
-files[] = {"path":"One more petstore.json","metaData":{}}
-files[] = {"path":"index.json","metaData":{}}
+files[] = {"path":"petstore-rename.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
