@@ -9,7 +9,6 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"petstore.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
