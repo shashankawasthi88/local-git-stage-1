@@ -10,6 +10,8 @@ files[] = {"id":"bc8541f2-f3dc-4212-95c8-c2c98105e4f3","path":"petstore_collecti
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"petstore-rename.json","metaData":{}}
+files[] = {"path":"One more petstore.json","metaData":{}}
+files[] = {"path":"index.json","metaData":{}}
+files[] = {"path":"petstore.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
