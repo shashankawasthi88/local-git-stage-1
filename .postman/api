@@ -16,4 +16,3 @@ files[] = {"path":"index.json","metaData":{}}
 files[] = {"path":"petstore.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
-type = openapi:3
