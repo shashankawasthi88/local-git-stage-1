@@ -11,9 +11,8 @@ files[] = {"id":"f744bfd1-7c25-4f32-be7d-e7bc0cb7a460","path":"C1_812959-f744bfd
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"petstore.json","metaData":{}}
-files[] = {"path":"index.json","metaData":{}}
 files[] = {"path":"One more petstore.json","metaData":{}}
+files[] = {"path":"index.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
