@@ -626,12 +626,13 @@
 							]
 						},
 						"url": {
-							"raw": "{{baseUrl}}/pet",
+							"raw": "{{baseUrl}}/pet/1",
 							"host": [
 								"{{baseUrl}}"
 							],
 							"path": [
-								"pet"
+								"pet",
+								"1"
 							]
 						},
 						"description": "Update an existing pet by Id"
