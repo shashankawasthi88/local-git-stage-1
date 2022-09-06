@@ -4,6 +4,7 @@ id = 962a656b-ba09-435b-b9be-2b0f34f8db42
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"84e72c5d-2d0d-4255-9240-c9b8d0cac502","path":"C1_812959-84e72c5d-2d0d-4255-9240-c9b8d0cac502.json","metaData":{}}
 files[] = {"id":"f744bfd1-7c25-4f32-be7d-e7bc0cb7a460","path":"C1_812959-f744bfd1-7c25-4f32-be7d-e7bc0cb7a460.json","metaData":{}}
 files[] = {"id":"bc8541f2-f3dc-4212-95c8-c2c98105e4f3","path":"petstore_collection_812959-bc8541f2-f3dc-4212-95c8-c2c98105e4f3.json","metaData":{}}
 
