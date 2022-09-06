@@ -6,6 +6,13 @@ id = 962a656b-ba09-435b-b9be-2b0f34f8db42
 rootDirectory = postman/collections
 files[] = {"id":"84e72c5d-2d0d-4255-9240-c9b8d0cac502","path":"C1_812959-84e72c5d-2d0d-4255-9240-c9b8d0cac502.json","metaData":{}}
 files[] = {"id":"f744bfd1-7c25-4f32-be7d-e7bc0cb7a460","path":"C1_812959-f744bfd1-7c25-4f32-be7d-e7bc0cb7a460.json","metaData":{}}
+files[] = {"id":"269a2e97-0776-45ae-89da-b41f1402c4c0","path":"C1_Generated_812959-269a2e97-0776-45ae-89da-b41f1402c4c0.json","metaData":{}}
+files[] = {"id":"73d45833-07af-4932-9244-15c107632bce","path":"C1_Generated_812959-73d45833-07af-4932-9244-15c107632bce.json","metaData":{}}
+files[] = {"id":"87d60284-c9ba-44df-8e6c-5f67f08bd036","path":"C1_Generated_812959-87d60284-c9ba-44df-8e6c-5f67f08bd036.json","metaData":{}}
+files[] = {"id":"a9ae0041-4a6b-46a9-832b-574423138688","path":"C1_Generated_812959-a9ae0041-4a6b-46a9-832b-574423138688.json","metaData":{}}
+files[] = {"id":"cb4eed12-a380-4012-9d8a-4bca3f0342f9","path":"C1_Generated_812959-cb4eed12-a380-4012-9d8a-4bca3f0342f9.json","metaData":{}}
+files[] = {"id":"d1b99752-d126-4641-899d-f6dfaa2855fa","path":"C1_Generated_812959-d1b99752-d126-4641-899d-f6dfaa2855fa.json","metaData":{}}
+files[] = {"id":"7aec7659-ea94-4ebf-90a2-867faefa78e1","path":"C2_Generated_812959-7aec7659-ea94-4ebf-90a2-867faefa78e1.json","metaData":{}}
 files[] = {"id":"bc8541f2-f3dc-4212-95c8-c2c98105e4f3","path":"petstore_collection_812959-bc8541f2-f3dc-4212-95c8-c2c98105e4f3.json","metaData":{}}
 
 [relations.collections.metaData]
